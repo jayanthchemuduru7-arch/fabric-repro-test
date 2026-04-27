@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "test_custom_live_pool",
+    "description": "Environment"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "da54cd35-fe81-a0d0-4aad-7a59f08e8d49"
+  }
+}
