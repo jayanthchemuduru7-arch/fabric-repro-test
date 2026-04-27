@@ -1,0 +1,4 @@
+find_replace:
+  - find: "lakehouse1"
+    replace_value:
+      dev: "lakehouse1"
